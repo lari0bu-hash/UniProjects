@@ -1,0 +1,42 @@
+MPLINK 4.42, Linker
+Linker Map File - Created Mon Oct 17 10:25:46 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x00004c
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000025      
+            38 out of 8455 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000012    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\PRACTICA 2.asm
+            M1_NO_ES_CERO   0x000007    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\PRACTICA 2.asm
+              MULTIPLICAR   0x000001    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\PRACTICA 2.asm
+         MULTI_NO_ES_CERO   0x00000b    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\PRACTICA 2.asm
+         NO_ACARREO_SALTO   0x000010    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\PRACTICA 2.asm
+                PRINCIPAL   0x000020    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\PRACTICA 2.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+              MULTIPLICAR   0x000001    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\PRACTICA 2.asm
+            M1_NO_ES_CERO   0x000007    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\PRACTICA 2.asm
+         MULTI_NO_ES_CERO   0x00000b    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\PRACTICA 2.asm
+         NO_ACARREO_SALTO   0x000010    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\PRACTICA 2.asm
+                   INICIO   0x000012    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\PRACTICA 2.asm
+                PRINCIPAL   0x000020    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\PRACTICA 2.asm
+
+

@@ -1,0 +1,82 @@
+MPLINK 4.42, Linker
+Linker Map File - Created Sat Dec 03 20:57:21 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000132
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000098      
+            153 out of 8455 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     AQUI   0x000009    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                   BUFFER   0x000090    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                  CATORCE   0x000081    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     CERO   0x000057    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                    CINCO   0x000066    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                   CUATRO   0x000063    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                    DELAY   0x000052    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+              DIESCINUEVE   0x00000d    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                DIESIOCHO   0x00008d    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                DIESISEIS   0x000087    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+               DIESISIETE   0x00008a    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     DIEZ   0x000075    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     DOCE   0x00007b    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                      DOS   0x00005d    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                   INICIO   0x000001    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                    NUEVE   0x000072    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     OCHO   0x00006f    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     ONCE   0x000078    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                   QUINCE   0x000084    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     SEIS   0x000069    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                    SIETE   0x00006c    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                    START   0x000010    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     TIME   0x00004e    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                    TRECE   0x00007e    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     TRES   0x000060    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                      UNO   0x00005a    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000001    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     AQUI   0x000009    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+              DIESCINUEVE   0x00000d    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                    START   0x000010    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     TIME   0x00004e    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                    DELAY   0x000052    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     CERO   0x000057    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                      UNO   0x00005a    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                      DOS   0x00005d    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     TRES   0x000060    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                   CUATRO   0x000063    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                    CINCO   0x000066    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     SEIS   0x000069    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                    SIETE   0x00006c    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     OCHO   0x00006f    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                    NUEVE   0x000072    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     DIEZ   0x000075    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     ONCE   0x000078    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                     DOCE   0x00007b    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                    TRECE   0x00007e    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                  CATORCE   0x000081    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                   QUINCE   0x000084    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                DIESISEIS   0x000087    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+               DIESISIETE   0x00008a    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                DIESIOCHO   0x00008d    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+                   BUFFER   0x000090    program     static C:\Users\Usuario\OneDrive\Escritorio\Circuitos Proteus\Parcticas PIC16F887\Practica 9\P9.asm
+
+
